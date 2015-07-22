@@ -1,0 +1,7 @@
+# Bash-Scripts
+echo "# Bash-Scripts" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:TigerReborn1993/Bash-Scripts.git
+git push -u origin master
